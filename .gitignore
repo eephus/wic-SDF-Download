@@ -1,0 +1,36 @@
+# Scala/sbt related
+null/
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.bloop/
+.metals/
+.bsp/
+
+# Logs
+logs/
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.bin/
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Other common files to ignore
+*.class
+*.jar
+*.swp
+*~
+.DS_Store
